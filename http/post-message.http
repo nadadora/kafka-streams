@@ -1,0 +1,14 @@
+POST http://localhost:8081/message
+Content-Type: application/json
+
+{
+  "message": "but i dont know why and then it was again, something strange and i dont know why"
+}
+
+###
+
+GET http://localhost:8081/count/and
+
+###
+
+GET http://localhost:8081/count/again
